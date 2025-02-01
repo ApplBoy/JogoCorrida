@@ -1,7 +1,9 @@
 # JogoCorrida
 
 Just a educational project made to render 2D graphics using Java.
+
 Made on a week, single handedly, as a college project, worth around 24 hours of work.
+
 Posted in here for archiving purposes.
 
 For judical reasons, the images used in the project are encrypted and the key is
