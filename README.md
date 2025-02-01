@@ -17,3 +17,5 @@ cd JogoCorrida
 mvn clean package
 java -jar target/JogoCorrida-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+
+![project_image.png](./project-assets/project_image.png)
